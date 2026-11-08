@@ -24,13 +24,8 @@ companion program, and nothing on your disc image or memory card is modified.
    to `pcsx2-qt.exe`. Keep the file name: PCSX2 matches it to the game by the
    `SLUS-21215_B99A75DE` prefix.
 2. In the game list, right-click *The Warriors* → **Properties** → **Patches**
-   and tick **The Warriors 60FPS Patch**. Unlike cheats, patches do not need
-   *Enable Cheats*.
+   and tick **The Warriors 60FPS Patch**.
 3. Start the game. You can also tick the patch while the game is running.
-
-Only keep one copy of the file. If you had an earlier copy in the `cheats`
-folder, delete it. With two copies everything is applied twice, and unticking
-one of them does not turn the patch off.
 
 The Patches tab shows **Applied: Unknown** for this patch. This is expected:
 PCSX2 shows "Unknown" for any patch that has lines applied once at startup as
