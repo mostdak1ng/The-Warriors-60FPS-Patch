@@ -1,0 +1,7 @@
+# Only the files of the release are tracked.
+*
+!.gitignore
+!SLUS-21215_B99A75DE_60fps.pnach
+!README.md
+!CHANGELOG.md
+!LICENSE
